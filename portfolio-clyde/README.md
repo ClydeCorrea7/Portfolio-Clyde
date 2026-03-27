@@ -1,36 +1,79 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Clyde Correa
+**Full-Stack Developer & Creative Technologist**
 
-## Getting Started
+📍 Vidhyavihar, Mumbai | 📧 clydecorrea78@gmail.com | 📞 9867320317
+[GitHub](https://github.com/ClydeCorrea7) | [LinkedIn](https://www.linkedin.com/in/clyde-correa-b12406373/)
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Professional Summary
+A full-stack developer focused on building interactive applications and game-based experiences, with a strong interest in game development and real-time systems. Experienced with React, modern UI systems, and AI-powered features. Aiming to create engaging, high-impact digital products, with long-term goals in professional game development and collaborative software engineering.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠 Skills & Arsenal
+- **Languages:** JavaScript, TypeScript, Python, C, C++
+- **Frontend:** React, HTML, CSS, Next.js, Tailwind CSS, Framer Motion
+- **Backend:** Node.js, PHP, Supabase
+- **Tools & Platforms:** Git, Vite, Godot Engine, Figma, VS Code
+- **Other:** OpenAI API, REST APIs, UI/UX Design
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 💻 Projects & Experiences
 
-To learn more about Next.js, take a look at the following resources:
+### 🌟 Featured: [FlashLearn](https://flash-learn-iota.vercel.app/) (AI-Powered Flashcard App)
+Built using **React, TypeScript, and Supabase**.
+- Integrated OpenAI API for automated flashcard generation.
+- Built a secure authentication system.
+- Developed a comprehensive deck management system with an interactive study mode featuring progress tracking and streak mechanics.
+- Deployed and live hosted on Vercel.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 🎮 Game Development & Prototypes
+- **Godot Engine Game Project** - *Currently in stealth development!* (Logic, UX Experimentation)
+- **Wordle Clone** - (Mechanics/Logic)
+- **Fruit Ninja-Style Game** - (UI/UX Experimentation)
+- **Color Blast Game** - (Scoring Systems, Interactive Design)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 💼 Work Experience
+**Graphic Designer** | *Andrean Entrepreneurship and Incubation Cell (St. Andrew’s College)*
+[July 2023 – April 2026]
+- Designed visually appealing posters, banners, and event branding materials.
+- Collaborated seamlessly with organizing teams on promotions and visual identity.
+- Contributed to the overarching creative direction of college events.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🎓 Education
+**Bachelor of Science in Information Technology**
+*St. Andrew’s College, Mumbai* | [2023 – 2026]
+
+**12th Grade (Commerce with IT & Math)**
+*Marceline Junior College* | Score: 71%
+
+---
+
+## 📜 Key Certifications & Continuous Learning
+I am constantly upskilling. Here are some of my recent verifiable learning milestones:
+
+**Web Development:**
+- HTML, CSS, JavaScript, React - Online Cert Course *(16 hrs)*
+- CSS, JavaScript, PHP And Python... *(10 hrs)*
+- Web Development Complete Guide Courses *(Various)*
+
+**AI & Productivity:**
+- ChatGPT Masterclass & Generative AI *(Chetan Pujari)*
+- ChatGPT in Business Environment *(MTF Inst. of Mgmt)*
+
+**Programming & Core Tech:**
+- The Complete C & C++ Programming *(Sara Academy)*
+- Raspberry Pi Step By Step *(Educational Engineering Team)*
+
+**Design & Creativity:**
+- Essential Canva for Graphics Design *(Learnify IT)*
+- Shading Basics & Graphic Design *(Tamas Benko)*
+
+---
+*This repository contains the cinematic, pixel-art inspired web portfolio mapping out this exact resume. Powered by Next.js and Tailwind CSS.*
