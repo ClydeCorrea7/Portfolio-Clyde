@@ -55,9 +55,6 @@ export function HeroSection() {
             <span className="flex items-center">
               <Phone className="w-4 h-4 mr-1 text-[#7c3aed]" /> 9867320317
             </span>
-            <span className="flex items-center">
-              <Link2 className="w-4 h-4 mr-1 text-slate-400" /> Portfolio (Link)
-            </span>
           </div>
 
           <motion.p
