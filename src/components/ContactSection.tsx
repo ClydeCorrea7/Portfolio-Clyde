@@ -31,7 +31,7 @@ export function ContactSection() {
             <div className="text-left flex-1 w-full relative">
               <h3 className="font-pixel text-xl text-white mb-6">REACH OUT</h3>
               <p className="text-slate-400 mb-8 max-w-sm font-medium">
-                Looking for a creative technologist or full-stack developer? I'm currently open to new opportunities and exciting collaborations.
+                Looking for a creative technologist or full-stack developer? I&apos;m currently open to new opportunities and exciting collaborations.
               </p>
               
               <div className="space-y-4 mb-4">
