@@ -74,9 +74,9 @@ export function WorkExperienceSection() {
             <div className="hidden sm:block sm:w-1/2 sm:pl-12 md:pl-16">
               {playMode && (
                 <div className="font-pixel text-[10px] text-slate-700 opacity-30 select-none">
-                  // LOGFILE: EXPERIENCE.DAT<br />
-                  // STATUS: ACTIVE<br />
-                  // LEVEL: 3
+                  {"// LOGFILE: EXPERIENCE.DAT"}<br />
+                  {"// STATUS: ACTIVE"}<br />
+                  {"// LEVEL: 3"}
                 </div>
               )}
             </div>
